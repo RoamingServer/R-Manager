@@ -1,0 +1,11 @@
+name: R-Manager-Coordinate-sharing
+version: '1.0-SNAPSHOT'
+main: org.rserver.rmanager.coordinatesharing.main
+api-version: '1.21'
+authors: [ Yxzhou - Ender_drate ]
+description: A Plugin
+website: https://yxzhou.com
+commands:
+  cs:
+    description: 显示并共享玩家的坐标
+    usage: /<command>
