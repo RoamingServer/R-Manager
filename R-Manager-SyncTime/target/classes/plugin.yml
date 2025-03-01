@@ -1,0 +1,7 @@
+name: R-Manager-SyncTime
+version: '1.0-SNAPSHOT'
+main: org.rserver.rmanager.synctime.main
+api-version: '1.21'
+authors: [ Yxzhou - Ender_drate ]
+description: 让服务器同步现实时间
+website: https://yxzhou.com
