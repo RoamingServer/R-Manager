@@ -1,0 +1,7 @@
+name: R-Manager-SneakToPickUp
+version: '1.0-SNAPSHOT'
+main: org.rmanager.sneaktopickup.main
+api-version: '1.21'
+authors: [ Yxzhou - Ender_drate ]
+description: 潜行拾取物品
+website: https://yxzhou.com
