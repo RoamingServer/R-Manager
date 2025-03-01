@@ -1,0 +1,15 @@
+name: R-Manager-StayDay
+version: '1.0-SNAPSHOT'
+main: org.rserver.rmanager.stayday.main
+api-version: '1.21'
+authors: [ Yxzhou - Ender_drate ]
+description: A Plugin
+website: https://yxzhou.com
+commands:
+  stayday:
+    description: Toggle day lock
+    usage: /<command>
+    permission: rserver.stayday.*
+permissions:
+  rserver.stayday.*:
+    default: op
