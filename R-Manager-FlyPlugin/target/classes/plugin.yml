@@ -1,0 +1,11 @@
+name: R-Manager-FlyPlugin
+version: '1.0-SNAPSHOT'
+main: org.rserver.rmanager.flyingplugin.main
+api-version: '1.21'
+authors: [ Yxzhou - Ender_drate ]
+description: A Plugin
+website: https://yxzhou.com
+commands:
+  fly:
+    description: 切换飞行模式
+    usage: /<command>

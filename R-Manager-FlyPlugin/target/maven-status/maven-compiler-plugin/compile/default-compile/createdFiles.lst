@@ -1,0 +1,3 @@
+org\rserver\rmanager\flyingplugin\main.class
+org\rserver\rmanager\flyingplugin\main$FlyCommandExecutor.class
+org\rserver\rmanager\flyingplugin\main$FlyTabCompleter.class
