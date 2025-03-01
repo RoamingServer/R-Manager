@@ -1,0 +1,4 @@
+name: R-Manager-DeathPosition
+version: '1.0-SNAPSHOT'
+main: org.rserver.rmanager.rmanagerdeathposition.main
+api-version: '1.21'
