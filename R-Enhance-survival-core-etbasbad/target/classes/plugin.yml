@@ -1,0 +1,7 @@
+name: R-Enhance-survival-core-etbasbad
+version: '1.0-SNAPSHOT'
+main: org.rserver.rmanager.esc.etbasbad.main
+api-version: '1.21'
+authors: [ Yxzhou - Ender_drate ]
+description: 起因是V_developer，在服务器中使用/kill指令结束Ender_drate的声明，于是我想通过该插件保护世界和平
+website: https://yxzhou.com
